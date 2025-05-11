@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&display=swap');
+body{
+  font-family: "Sofia Sans", sans-serif;
+  text-align: center;
+  color:darkorange;
+  background-color:black;
+    background-image: url('https://i.postimg.cc/W1rwrNNv/viber-2025-05-11-13-15-37-614.jpg'); /* Шлях до зображення магічного годинника */
+  background-size: cover; /* Масштабування зображення на всю ширину/висоту */
+  background-position: center center; /* Центрування фону */
+  position: relative;
+  min-height:100vh;
+  font-size:20px
+}
+h1, h2, h3{
+  font-family: "Bad Script", cursive;
+}
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+    text-align:center;
+}
+p{
+ color: rgb(102, 176, 201); 
+}
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+td{
+  border: 4px dotted rgba(23, 87, 108, 0.761);
+  color:lightgrey;
+}
+table img{
+  width:200px;
+  border-radius:20%
+}
+img{
+  width:100%;
+  border-radius:10%
+}
+nav a{
+  font-size:25px;
+  text-decoration:none;
+  color:darkred;
+background-color: #508043;
+background-color: #ebf0d0;
+.ul{
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='52' height='52' viewBox='0 0 52 52'%3E%3Cpath fill='%239C92AC' fill-opacity='0.4' d='M0 17.83V0h17.83a3 3 0 0 1-5.66 2H5.9A5 5 0 0 1 2 5.9v6.27a3 3 0 0 1-2 5.66zm0 18.34a3 3 0 0 1 2 5.66v6.27A5 5 0 0 1 5.9 52h6.27a3 3 0 0 1 5.66 0H0V36.17zM36.17 52a3 3 0 0 1 5.66 0h6.27a5 5 0 0 1 3.9-3.9v-6.27a3 3 0 0 1 0-5.66V52H36.17zM0 31.93v-9.78a5 5 0 0 1 3.8.72l4.43-4.43a3 3 0 1 1 1.42 1.41L5.2 24.28a5 5 0 0 1 0 5.52l4.44 4.43a3 3 0 1 1-1.42 1.42L3.8 31.2a5 5 0 0 1-3.8.72zm52-14.1a3 3 0 0 1 0-5.66V5.9A5 5 0 0 1 48.1 2h-6.27a3 3 0 0 1-5.66-2H52v17.83zm0 14.1a4.97 4.97 0 0 1-1.72-.72l-4.43 4.44a3 3 0 1 1-1.41-1.42l4.43-4.43a5 5 0 0 1 0-5.52l-4.43-4.43a3 3 0 1 1 1.41-1.41l4.43 4.43c.53-.35 1.12-.6 1.72-.72v9.78zM22.15 0h9.78a5 5 0 0 1-.72 3.8l4.44 4.43a3 3 0 1 1-1.42 1.42L29.8 5.2a5 5 0 0 1-5.52 0l-4.43 4.44a3 3 0 1 1-1.41-1.42l4.43-4.43a5 5 0 0 1-.72-3.8zm0 52c.13-.6.37-1.19.72-1.72l-4.43-4.43a3 3 0 1 1 1.41-1.41l4.43 4.43a5 5 0 0 1 5.52 0l4.43-4.43a3 3 0 1 1 1.42 1.41l-4.44 4.43c.36.53.6 1.12.72 1.72h-9.78zm9.75-24a5 5 0 0 1-3.9 3.9v6.27a3 3 0 1 1-2 0V31.9a5 5 0 0 1-3.9-3.9h-6.27a3 3 0 1 1 0-2h6.27a5 5 0 0 1 3.9-3.9v-6.27a3 3 0 1 1 2 0v6.27a5 5 0 0 1 3.9 3.9h6.27a3 3 0 1 1 0 2H31.9z'%3E%3C/path%3E%3C/svg%3E");
+}
+
